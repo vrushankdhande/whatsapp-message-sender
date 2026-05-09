@@ -41,7 +41,7 @@ whatsapp-message-sender/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/whatsapp-message-sender.git
+git clone https://github.com/vrushankdhande/whatsapp-message-sender.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
